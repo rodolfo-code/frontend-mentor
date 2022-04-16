@@ -125,6 +125,7 @@ hr {
 .avatar-container img {
   height: 30px;
   border: solid 1px #ffffff;
+  border-radius: 50%;
 }
 
 .avatar-container p {
